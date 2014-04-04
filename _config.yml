@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
+url: http://thiha.me
 title: My Octopress Blog
 subtitle: A blogging framework for hackers.
-author: Your Name
+author: Thiha Tin Maung Aye
 simple_search: https://www.google.com/search
 description:
 
